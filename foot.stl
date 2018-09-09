@@ -1,0 +1,198 @@
+solid SpoolHolder final
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 100.0 150.948303386521 -3.13079171759589e-031
+vertex 100.0 141.148303386521 10.0
+vertex 100.0 141.148303386521 -3.13079171759589e-031
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 100.0 141.148303386521 10.0
+vertex 100.0 150.948303386521 -3.13079171759589e-031
+vertex 100.0 150.948303386521 10.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 100.0 141.148303386521 -3.13079171759589e-031
+vertex 95.0 141.148303386521 4.9
+vertex 0.0 141.148303386521 -3.13079171759589e-031
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 95.0 141.148303386521 4.9
+vertex 100.0 141.148303386521 -3.13079171759589e-031
+vertex 100.0 141.148303386521 10.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 95.0 141.148303386521 4.9
+vertex 100.0 141.148303386521 10.0
+vertex 95.0 141.148303386521 10.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 0.0 141.148303386521 -3.13079171759589e-031
+vertex 4.9 141.148303386521 4.9
+vertex 0.0 141.148303386521 9.9
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 4.9 141.148303386521 4.9
+vertex 0.0 141.148303386521 -3.13079171759589e-031
+vertex 95.0 141.148303386521 4.9
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 0.0 141.148303386521 9.9
+vertex 4.9 141.148303386521 4.9
+vertex 4.9 141.148303386521 9.9
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 0.0 150.948303386521 -3.13079171759589e-031
+vertex 4.9 150.948303386521 4.9
+vertex 100.0 150.948303386521 -3.13079171759589e-031
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 4.9 150.948303386521 4.9
+vertex 0.0 150.948303386521 -3.13079171759589e-031
+vertex 0.0 150.948303386521 9.9
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 4.9 150.948303386521 4.9
+vertex 0.0 150.948303386521 9.9
+vertex 4.9 150.948303386521 9.9
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 100.0 150.948303386521 -3.13079171759589e-031
+vertex 95.0 150.948303386521 4.9
+vertex 100.0 150.948303386521 10.0
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 95.0 150.948303386521 4.9
+vertex 100.0 150.948303386521 -3.13079171759589e-031
+vertex 4.9 150.948303386521 4.9
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 100.0 150.948303386521 10.0
+vertex 95.0 150.948303386521 4.9
+vertex 95.0 150.948303386521 10.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 150.948303386521 9.9
+vertex 0.0 141.148303386521 -3.13079171759589e-031
+vertex 0.0 141.148303386521 9.9
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 141.148303386521 -3.13079171759589e-031
+vertex 0.0 150.948303386521 9.9
+vertex 0.0 150.948303386521 -3.13079171759589e-031
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 100.0 150.948303386521 -3.13079171759589e-031
+vertex 0.0 141.148303386521 -3.13079171759589e-031
+vertex 0.0 150.948303386521 -3.13079171759589e-031
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 0.0 141.148303386521 -3.13079171759589e-031
+vertex 100.0 150.948303386521 -3.13079171759589e-031
+vertex 100.0 141.148303386521 -3.13079171759589e-031
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 95.0 141.148303386521 4.9
+vertex 4.9 150.948303386521 4.9
+vertex 4.9 141.148303386521 4.9
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 4.9 150.948303386521 4.9
+vertex 95.0 141.148303386521 4.9
+vertex 95.0 150.948303386521 4.9
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 100.0 141.148303386521 10.0
+vertex 95.0 150.948303386521 10.0
+vertex 95.0 141.148303386521 10.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 95.0 150.948303386521 10.0
+vertex 100.0 141.148303386521 10.0
+vertex 100.0 150.948303386521 10.0
+endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+outer loop
+vertex 95.0 150.948303386521 10.0
+vertex 95.0 141.148303386521 4.9
+vertex 95.0 141.148303386521 10.0
+endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+outer loop
+vertex 95.0 141.148303386521 4.9
+vertex 95.0 150.948303386521 10.0
+vertex 95.0 150.948303386521 4.9
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 4.9 141.148303386521 9.9
+vertex 0.0 150.948303386521 9.9
+vertex 0.0 141.148303386521 9.9
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 0.0 150.948303386521 9.9
+vertex 4.9 141.148303386521 9.9
+vertex 4.9 150.948303386521 9.9
+endloop
+endfacet
+facet normal 1.0 7.04991620636971e-017 0.0
+outer loop
+vertex 4.9 150.948303386521 4.9
+vertex 4.9 141.148303386521 9.9
+vertex 4.9 141.148303386521 4.9
+endloop
+endfacet
+facet normal 1.0 7.04991620636971e-017 0.0
+outer loop
+vertex 4.9 141.148303386521 9.9
+vertex 4.9 150.948303386521 4.9
+vertex 4.9 150.948303386521 9.9
+endloop
+endfacet
+endsolid SpoolHolder final
